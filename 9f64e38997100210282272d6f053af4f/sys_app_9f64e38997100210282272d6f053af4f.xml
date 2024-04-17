@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>DS</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>c17423c997100210282272d6f053afce</logo>
+        <menu/>
+        <name>ShipmentNow Application</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1215061_sna</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>This App is used for managing shipments and Tracking process</short_description>
+        <source>x_1215061_sna</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 09:55:18</sys_created_on>
+        <sys_id>9f64e38997100210282272d6f053af4f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-10 09:55:26</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=9f64e38997100210282272d6f053af4f"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>ShipmentNow.png</file_name>
+        <hash>ce094a682482100bebb395049346300507c4446330b7efac43453b4e9366f886</hash>
+        <image_height>225</image_height>
+        <image_width>225</image_width>
+        <size_bytes>4199</size_bytes>
+        <size_compressed>4155</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 09:55:26</sys_created_on>
+        <sys_id>c17423c997100210282272d6f053afce</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-10 09:55:26</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>9f64e38997100210282272d6f053af4f</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="ShipmentNow.png" sys_id="c17423c997100210282272d6f053afce">c17423c997100210282272d6f053afce</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 09:55:26</sys_created_on>
+        <sys_id>057423c997100210282272d6f053afce</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>5528</length>
+        <position>1</position>
+        <sys_attachment display_value="ShipmentNow.png" sys_id="c17423c997100210282272d6f053afce">c17423c997100210282272d6f053afce</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 09:55:26</sys_created_on>
+        <sys_id>857423c997100210282272d6f053afce</sys_id>
+    </sys_attachment_doc>
+</record_update>

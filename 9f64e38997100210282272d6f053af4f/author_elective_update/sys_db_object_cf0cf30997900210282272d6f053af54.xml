@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Shipment Estimation</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1215061_sna_shipment_estimation</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 11:45:01</sys_created_on>
+        <sys_id>cf0cf30997900210282272d6f053af54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shipment Estimation</sys_name>
+        <sys_package display_value="ShipmentNow Application" source="x_1215061_sna">9f64e38997100210282272d6f053af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow Application">9f64e38997100210282272d6f053af4f</sys_scope>
+        <sys_update_name>sys_db_object_cf0cf30997900210282272d6f053af54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-10 11:45:01</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_1215061_sna.shipment_estimation_user" name="x_1215061_sna.shipment_estimation_user">468db30597900210282272d6f053af00</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ShipmentNow Application">9f64e38997100210282272d6f053af4f</application>
+        <file_path/>
+        <instance_id>3a774c04dbf644144d2bac44d49619be</instance_id>
+        <instance_name>dev98707</instance_name>
+        <name>sys_db_object_cf0cf30997900210282272d6f053af54</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Shipment Estimation</label><live_feed_enabled>false</live_feed_enabled><name>x_1215061_sna_shipment_estimation</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-10 11:45:01</sys_created_on><sys_id>cf0cf30997900210282272d6f053af54</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Shipment Estimation</sys_name><sys_package display_value="ShipmentNow Application" source="x_1215061_sna">9f64e38997100210282272d6f053af4f</sys_package><sys_policy/><sys_scope display_value="ShipmentNow Application">9f64e38997100210282272d6f053af4f</sys_scope><sys_update_name>sys_db_object_cf0cf30997900210282272d6f053af54</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-10 11:45:01</sys_updated_on><update_access>false</update_access><user_role display_value="x_1215061_sna.shipment_estimation_user" name="x_1215061_sna.shipment_estimation_user">468db30597900210282272d6f053af00</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1813446156</payload_hash>
+        <record_name>Shipment Estimation</record_name>
+        <reverted_from/>
+        <source>9f64e38997100210282272d6f053af53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 11:45:02</sys_created_on>
+        <sys_id>a68dbf4997900210282272d6f053af77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d92d5cf150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-10 11:45:02</sys_updated_on>
+        <type>Table</type>
+        <update_guid>ea8dbf49c4900210524df268ac8bda76</update_guid>
+        <update_guid_history>ea8dbf49c4900210524df268ac8bda76:-1813446156</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 12:15:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>08e6550f4f74403c86f4ba33370614d1</sys_id>
+        <sys_metadata>cf0cf30997900210282272d6f053af54</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shipment Estimation</sys_name>
+        <sys_package display_value="ShipmentNow Application" source="x_1215061_sna">9f64e38997100210282272d6f053af4f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow Application">9f64e38997100210282272d6f053af4f</sys_scope>
+        <sys_scope_delete display_value="">1238226dcf50449a927cb1e9c1a468c4</sys_scope_delete>
+        <sys_update_name>sys_db_object_cf0cf30997900210282272d6f053af54</sys_update_name>
+        <sys_update_version display_value="sys_db_object_cf0cf30997900210282272d6f053af54">a68dbf4997900210282272d6f053af77</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 12:15:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

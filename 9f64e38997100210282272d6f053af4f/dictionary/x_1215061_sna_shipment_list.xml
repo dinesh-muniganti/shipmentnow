@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="019ba34597500210282272d6f053afe1" label="Shipment List" max_length="40" name="x_1215061_sna_shipment_list" type="collection">
+        <element label="Accrued" max_length="40" name="accrued" type="integer"/>
+        <element label="Balance" max_length="40" name="balance" type="integer"/>
+        <element label="Item Name" max_length="40" name="item_name" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+    </element>
+</database>
